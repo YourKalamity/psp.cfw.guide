@@ -21,7 +21,7 @@ name: "Kalam"
 repository: YourKalamity/psp.cfw.guide
 twitter_username: kalamity03
 github_username: YourKalamity
-minimal_mistakes_skin: nord
+minimal_mistakes_skin: dark
 search: false
 
 # Build settings
