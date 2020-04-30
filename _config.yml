@@ -17,9 +17,11 @@ title: PSP CFW Guide
 email: m.kalam@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The complete guide to install 6.61 PRO-C CFW on a stock PSP
+name: "Kalam"
+repository: YourKalamity/psp.cfw.guide
 twitter_username: kalamity03
 github_username: YourKalamity
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: nord
 search: false
 
 # Build settings
