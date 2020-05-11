@@ -131,7 +131,7 @@ defaults:
       permalink: /en_PT/:basename:output_ext
       lang: en-PT
   - scope:
-      path: "_pages/en_GB/home.md"
+      path: "_pages/en_US/home.md"
       type: pages
     values:
       permalink: /:index:output_ext
@@ -327,7 +327,7 @@ defaults:
     values:
       permalink: /en_PT/index:output_ext
   - scope:
-      path: "_pages/en_GB/home.md"
+      path: "_pages/en_US/home.md"
       type: pages
     values:
       permalink: /index:output_ext
