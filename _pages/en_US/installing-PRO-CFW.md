@@ -4,7 +4,7 @@ redirect_from:
   - /guide/installing-PRO-CFW
 ---
 
-{% include toc title="Table of Contents" %}
+
 
 ## Downloads
 - [6.60 PSP Official Firmware update](files/6.60Update.zip)
@@ -43,5 +43,5 @@ Your PSP is now running CFW
 
 Infinity has been installed
 
-Continue to [Using PSP CFW](usingPSPCFW)
+Continue to [Using PSP CFW]()
 {: .notice--info}
